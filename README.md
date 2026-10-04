@@ -7,9 +7,9 @@
 
 The SQL database `musical_retail_germany` is a synthetically created
 database using ChatGPT. It contains sales (and related) information from
-a fictional online music equipment retailer for the years 2024 and 2025.
-The data is supposed to be messy, thus enforcing some initial data
-cleaning.
+a fictional online music equipment retailer for the years 2022, 2023,
+2024, and 2025. The data is supposed to be messy, thus enforcing some
+initial data cleaning.
 
 ## Structure
 
